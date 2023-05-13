@@ -99,6 +99,14 @@ section {
         padding-bottom: 158px !important;
     }
 }
+@media screen and (max-width: 450px) {
+    .header__h1 {
+        padding-top: 105px;
+    }
+    .header__h3 {
+        padding-bottom: 265px !important;
+    }
+}
 /* about */
 .ab {
     max-width: 1020px;
