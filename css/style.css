@@ -145,11 +145,14 @@ section {
         grid-template-columns: repeat(1, 1fr);
         position: relative;
         top: -113px;
+        padding-bottom: 52px;
     }
     .about__grid-text {
         grid-row-start: 1;
     }
-
+    .ed {
+        padding-bottom: 0 !important;
+    }
 }
 .fa {
     font-size: 20px;
